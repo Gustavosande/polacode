@@ -7,6 +7,8 @@
 
 ## Why?
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/85adda8a5b554ea089984bb5837e5eea)](https://app.codacy.com/manual/gustavosandesilva/polacode?utm_source=github.com&utm_medium=referral&utm_content=Gustavosande/polacode&utm_campaign=Badge_Grade_Dashboard)
+
 You have spent countless hours finding the perfect [JavaScript grammar](https://marketplace.visualstudio.com/search?term=javascript%20grammar&target=VSCode&category=All%20categories&sortBy=Relevance), matching it with a [sleek-looking VS Code theme](https://marketplace.visualstudio.com/search?target=VSCode&category=Themes&sortBy=Downloads), trying out all the [best programming fonts](https://www.slant.co/topics/67/~best-programming-fonts).
 
 You take three days porting over [your theme](https://github.com/wesbos/cobalt2-vscode) before starting to use VS Code.  
